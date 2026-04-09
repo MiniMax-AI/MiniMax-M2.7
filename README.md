@@ -1,10 +1,3 @@
----
-pipeline_tag: text-generation
-license: other
-license_name: modified-mit
-license_link: https://github.com/MiniMax-AI/MiniMax-M2.7/blob/main/LICENSE
-library_name: transformers
----
 
 <div align="center">
   <picture>
