@@ -88,6 +88,7 @@ M2.7 features strengthened character consistency and emotional intelligence. We 
 - MiniMax Agent: https://agent.minimax.io/
 - MiniMax API: https://platform.minimax.io/
 - Token Plan: https://platform.minimax.io/subscribe/token-plan
+- MiniMax M2.7 is also available on [NVIDIA NIM Endpoint](https://build.nvidia.com)
 
 ## Local Deployment Guide
 
