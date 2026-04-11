@@ -42,11 +42,8 @@
   <a href="https://www.modelscope.cn/organization/MiniMax" target="_blank" style="margin: 2px;">
     🤖️ ModelScope
   </a> | 
-  <a href="https://github.com/MiniMax-AI/MiniMax-M2.7/blob/main/LICENSE-MODEL" style="margin: 2px;">
-    📄 LICENSE-MODEL
-  </a> | 
-  <a href="https://github.com/MiniMax-AI/MiniMax-M2.7/blob/main/LICENSE-CODE" style="margin: 2px;">
-    📄 LICENSE-CODE
+  <a href="https://github.com/MiniMax-AI/MiniMax-M2.7/blob/main/LICENSE" style="margin: 2px;">
+    📄 LICENSE
   </a>
 </div>
 
