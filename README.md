@@ -20,7 +20,7 @@
 </div>
 <div align="center" style="line-height: 1.2; font-size:16px;">
   <a href="https://agent.minimax.io/" target="_blank" style="display: inline-block; margin: 4px;">
-    MiniMax Agent
+    MiniMax Code
   </a> | 
   <a href="https://platform.minimax.io/docs/guides/text-generation" target="_blank" style="display: inline-block; margin: 4px;">
     ⚡️ API
@@ -85,7 +85,7 @@ M2.7 features strengthened character consistency and emotional intelligence. We 
 
 ## How to Use
 
-- MiniMax Agent: https://agent.minimax.io/
+- MiniMax Code: https://agent.minimax.io/
 - MiniMax API: https://platform.minimax.io/
 - Token Plan: https://platform.minimax.io/subscribe/token-plan
 
